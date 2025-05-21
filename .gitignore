@@ -1,0 +1,4 @@
+.venv
+bitter/__pycache__
+build
+packet.def
